@@ -1,0 +1,3 @@
+[submodule "Walnut Networking"]
+	path = Walnut
+	url = https://github.com/StudioCherno/Walnut-Networking.git
