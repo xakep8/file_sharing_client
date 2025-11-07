@@ -5,3 +5,4 @@ cmake_install.cmake
 Makefile
 bin/
 .DS_Store
+.vscode/
